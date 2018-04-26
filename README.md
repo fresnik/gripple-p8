@@ -11,7 +11,7 @@ A hosted instance of the game can be found [here](http://gripple.porkchophead.co
 
 ## Development
 
-This version of the game is written in PICO-8.
+This version of the game is written in [PICO-8](https://www.lexaloffle.com/pico-8.php), a fantasy console using Lua.
 
 ## License
 
